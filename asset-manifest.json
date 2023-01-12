@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Kosjo/static/css/main.8eb20739.css",
-    "main.js": "/Kosjo/static/js/main.603c722f.js",
+    "main.js": "/Kosjo/static/js/main.3f7039d0.js",
     "static/media/itera.jpg": "/Kosjo/static/media/itera.30c95ab013cda1f1bce8.jpg",
     "static/media/profil.jpg": "/Kosjo/static/media/profil.21d06e4216a78f2a2565.jpg",
     "static/media/header.jpg": "/Kosjo/static/media/header.c25ef2d28dd8583931e0.jpg",
     "index.html": "/Kosjo/index.html",
     "main.8eb20739.css.map": "/Kosjo/static/css/main.8eb20739.css.map",
-    "main.603c722f.js.map": "/Kosjo/static/js/main.603c722f.js.map"
+    "main.3f7039d0.js.map": "/Kosjo/static/js/main.3f7039d0.js.map"
   },
   "entrypoints": [
     "static/css/main.8eb20739.css",
-    "static/js/main.603c722f.js"
+    "static/js/main.3f7039d0.js"
   ]
 }

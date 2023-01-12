@@ -1,6 +1,7 @@
 {
-  "name": "landing-page-reactjs-materialui",
+  "name": "kosjo",
   "version": "0.1.0",
+  "homepage": "http://Ahmdfdhilah.github.io/Kosjo",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
@@ -18,6 +19,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
